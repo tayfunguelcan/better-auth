@@ -1,5 +1,12 @@
 # @better-auth/cli
 
+## 2.0.0
+
+### Patch Changes
+
+- Updated dependencies [e4af253]
+  - better-auth@2.0.0
+
 ## 1.3.4
 
 ### Patch Changes

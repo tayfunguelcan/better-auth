@@ -1,5 +1,11 @@
 # better-auth
 
+## 2.0.0
+
+### Major Changes
+
+- e4af253: Bug fix for refreshing twitter tokens
+
 ## 1.3.4
 
 ### Patch Changes
